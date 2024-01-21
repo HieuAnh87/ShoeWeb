@@ -18,5 +18,3 @@ Context: Liên kết với JDBC
 
 Control: Điều khiển, điều hướng
 
-D. Phân chia công việc:
-![phân chia công việc](https://user-images.githubusercontent.com/86817199/173166142-bce43c04-f9e3-4987-b269-fa6c8873fce9.png)
