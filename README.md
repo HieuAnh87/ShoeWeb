@@ -1,7 +1,7 @@
 # ShoeWeb - Web Programming 2022
  Website bán giày trực tuyến sử dụng Java Servlet
  
-Người thực hiện: Đoàn Anh Hiếu - Trần Quang Hưng
+Người thực hiện: Đoàn Anh Hiếu
 
 A. Các chức năng chính:
 ![image](https://user-images.githubusercontent.com/86817199/173166077-034db412-475e-4ebd-a8e1-00990c5b314e.png)
